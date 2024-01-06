@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "454849417953",
+    "project_id": "bslb-4c635",
+    "storage_bucket": "bslb-4c635.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454849417953:android:76a52affb5414c1749dda0",
+        "android_client_info": {
+          "package_name": "com.BSLB.bslb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454849417953-dqen767a076v95uqti49m5ohb5o2hg32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLCuz-NxpNR9G4rJZA4_r40VnmljWLDes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454849417953-dqen767a076v95uqti49m5ohb5o2hg32.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
